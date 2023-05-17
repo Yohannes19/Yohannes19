@@ -18,7 +18,9 @@
 
 
    -🌱I’m curently studying Erasmus Mundus Masters Program in Geospatial Technolgoesies 
-   -👯I’m looking to collaborate on any geospatial/geoscience open source projects
+   -👯I’m looking to collaborate on any geospatial/geoscience open source projects and looking for job/internship as well for web developr position
+  - 📫 How to reach me: i am avialble on the above mentioned social links
+   
 </div>
 
 
@@ -33,7 +35,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
