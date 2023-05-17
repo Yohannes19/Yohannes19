@@ -1,9 +1,10 @@
-### Hi there 👋 I am Yohannes !!
+# Hi there! 👋 I'm Yohannes!
 
-<div id="header" align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  
-  <div id="badges">
+</div>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/joeabrha/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -14,14 +15,12 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-  </div>
 
-<div id ="content">
-- 🌱 I’m curently studying Erasmus Mundus Masters Program in Geospatial Technolgoesies 
-- 👯 I’m looking to collaborate on any geospatial/geoscience open source projects and looking for job/internship as well for web developr position
-- 📫 How to reach me: i am avialble on the above mentioned social links
-   
-</div>
+- 🌱 I’m currently studying Erasmus Mundus Masters Program in Geospatial Technologies.
+- 👯 I’m looking to collaborate on any geospatial/geoscience open-source projects, and I'm also seeking job/internship opportunities as a web developer.
+- 📫 How to reach me: Feel free to connect with me on the social links above.
+
+
 
 
 
