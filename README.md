@@ -14,10 +14,9 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+  </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+<div id ="content">
 - 🌱 I’m curently studying Erasmus Mundus Masters Program in Geospatial Technolgoesies 
 - 👯 I’m looking to collaborate on any geospatial/geoscience open source projects and looking for job/internship as well for web developr position
 - 📫 How to reach me: i am avialble on the above mentioned social links
