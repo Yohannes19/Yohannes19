@@ -1,24 +1,35 @@
 # Hi there! 👋 I'm Yohannes!
 
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+### Full-Stack Developer | Geospatial Enthusiast | Clear Communicator
+
+I'm a passionate developer with expertise in building user-centric applications across frontend, backend, and geospatial domains. I leverage clear communication skills to collaborate effectively with cross-functional teams. My dedication to clean code ensures maintainable and scalable software solutions.
+
+**Skills**
+
+**Frontend:** HTML5, CSS, ReactJS, VueJS, Bootstrap5
+
+**Backend:** NodeJS (Express), Python (Django, Flask, FastAPI), Firebase
+
+**Database:** PostgreSQL & PostGIS, MySQL,Oracle DB
+
+**DevOps:** GCP
+
+**Testing:** Postman, Cypress
+
+**Project Management:** Slack
+
+**Geospatial:** QGIS, GeoPandas, Geoserver, Esri Products
+
+**Other:** Clean Code, CI/CD, Interviewing & Accessibility, Cross-Team Collaboration
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/joeabrha/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="[your-twitter-URL](https://twitter.com/yohannes_mulaw?t=RizsDfdXD3zgRqfjzg14BA&s=09)">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 
-- 🌱 I’m currently studying Erasmus Mundus Masters Program in Geospatial Technologies.
-- 👯 I’m looking to collaborate on any geospatial/geoscience open-source projects, and I'm also seeking job/internship opportunities as a web developer.
-- 📫 How to reach me: Feel free to connect with me on the social links above.
+
 
 
 
