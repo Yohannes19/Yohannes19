@@ -29,6 +29,21 @@ I'm a passionate developer with expertise in building user-centric applications 
   </a>
 </div>
 
+---
+
+## GitHub Stats
+
+[![Total Stars](https://img.shields.io/badge/Total%20Stars-1-yellow)](https://github.com/Yohannes19)
+[![Total Commits (2024)](https://img.shields.io/badge/Total%20Commits%20(2024)-105-blue)](https://github.com/Yohannes19)
+[![Total PRs](https://img.shields.io/badge/Total%20PRs-7-brightgreen)](https://github.com/Yohannes19)
+[![Total Issues](https://img.shields.io/badge/Total%20Issues-0-orange)](https://github.com/Yohannes19)
+[![Contributed to](https://img.shields.io/badge/Contributed%20to-0-brightgreen)](https://github.com/Yohannes19)
+
+---
+
+## Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yohannes19&layout=compact)](https://github.com/Yohannes19)
 
 
 
