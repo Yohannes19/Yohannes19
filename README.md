@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Yohannes!
 
-### Full-Stack Developer | Geospatial Enthusiast | Clear Communicator
+### Full-Stack Software Developer
 
 I'm a passionate developer with expertise in building user-centric applications across frontend, backend, and geospatial domains. I leverage clear communication skills to collaborate effectively with cross-functional teams. My dedication to clean code ensures maintainable and scalable software solutions.
 
@@ -8,7 +8,7 @@ I'm a passionate developer with expertise in building user-centric applications 
 
 **Frontend:** HTML5, CSS, ReactJS, VueJS, Bootstrap5
 
-**Backend:** NodeJS (Express), Python (Django, Flask, FastAPI), Firebase
+**Backend:** Ruby on rails, NodeJS (Express), Python (Django, Flask, FastAPI), Firebase
 
 **Database:** PostgreSQL & PostGIS, MySQL,Oracle DB
 
@@ -16,7 +16,7 @@ I'm a passionate developer with expertise in building user-centric applications 
 
 **Testing:** Postman, Cypress
 
-**Project Management:** Slack
+**Project Management:** Slack, Jira
 
 **Geospatial:** QGIS, GeoPandas, Geoserver, Esri Products
 
