@@ -1,49 +1,68 @@
 # Hi there! 👋 I'm Yohannes!
 
-### Full-Stack Software Developer
+### Software Engineer
 
 I'm a passionate developer with expertise in building user-centric applications across frontend, backend, and geospatial domains. I leverage clear communication skills to collaborate effectively with cross-functional teams. My dedication to clean code ensures maintainable and scalable software solutions.
 
-**Skills**
+## 🚀 Technical Skills Overview
 
-**Frontend:** HTML5, CSS, ReactJS, VueJS, Bootstrap5
+### 🖥️ Frontend Development
+- **Languages & Frameworks:** HTML5, CSS3, JavaScript (ES6+), React.js, Vue.js  
+- **UI/UX Tools:** Bootstrap 5, Responsive Web Design, Cross-Browser Compatibility
 
-**Backend:** Ruby on rails, NodeJS (Express), Python (Django, Flask, FastAPI), Firebase
+### 🔧 Backend Development
+- **Languages & Frameworks:** Ruby on Rails, Node.js (Express), Python (Django, Flask, FastAPI)  
+- **Cloud Solutions:** Firebase, RESTful APIs, Microservices Architecture
 
-**Database:** PostgreSQL & PostGIS, MySQL,Oracle DB
+### 🗄️ Databases & Data Management
+- **Relational Databases:** PostgreSQL (with PostGIS), MySQL, Oracle DB  
+- **Geospatial Databases:** PostGIS for spatial queries and geodata management
 
-**DevOps:** GCP
+### ☁️ DevOps & Cloud Platforms
+- **Platforms:** Google Cloud Platform (GCP)  
+- **CI/CD & Automation:** CI/CD pipelines, Infrastructure as Code (IaC)
 
-**Testing:** Postman, Cypress
+### 🧪 Testing & Quality Assurance
+- **Tools:** Postman, Cypress  
+- **Testing Practices:** Unit & Integration Testing, API Testing
 
-**Project Management:** Slack, Jira
+### 📈 Project Management & Collaboration
+- **Tools:** Slack, Jira  
+- **Methodologies:** Agile, Cross-team collaboration, Mentorship, Interviewing, Accessibility
 
-**Geospatial:** QGIS, GeoPandas, Geoserver, Esri Products
+### 🗺️ Geospatial Technologies
+- **Tools & Libraries:** QGIS, GeoPandas, Geoserver, Esri ArcGIS Suite  
+- **Capabilities:** Geospatial data analysis, mapping, and visualization
 
-**Other:** Clean Code, CI/CD, Interviewing & Accessibility, Cross-Team Collaboration
+### 🛠️ Other Skills
+- **Best Practices:** Clean Code, Design Patterns  
+- **Collaboration:** Cross-team collaboration, stakeholder communication
 
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/joeabrha/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+---
+## 📊 GitHub Stats
+
+![Yohannes19's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yohannes19&show_icons=true&theme=default&count_private=true&include_all_commits=true)
+
+[![Total Stars](https://img.shields.io/github/stars/Yohannes19?label=Total%20Stars&style=flat&logo=github)](https://github.com/Yohannes19)
+[![Total Commits](https://img.shields.io/github/commit-activity/m/Yohannes19?label=Total%20Commits&style=flat&logo=github)](https://github.com/Yohannes19)
+[![Total PRs](https://img.shields.io/github/issues-pr/Yohannes19?label=Total%20PRs&style=flat&logo=github)](https://github.com/Yohannes19)
+[![Total Issues](https://img.shields.io/github/issues/Yohannes19?label=Total%20Issues&style=flat&logo=github)](https://github.com/Yohannes19)
+[![Contributors](https://img.shields.io/github/contributors/Yohannes19?label=Contributors&style=flat&logo=github)](https://github.com/Yohannes19)
+
 
 ---
 
-## GitHub Stats
+## 📚 Most Used Languages
 
-[![Total Stars](https://img.shields.io/badge/Total%20Stars-1-yellow)](https://github.com/Yohannes19)
-[![Total Commits (2024)](https://img.shields.io/badge/Total%20Commits%20(2024)-105-blue)](https://github.com/Yohannes19)
-[![Total PRs](https://img.shields.io/badge/Total%20PRs-7-brightgreen)](https://github.com/Yohannes19)
-[![Total Issues](https://img.shields.io/badge/Total%20Issues-0-orange)](https://github.com/Yohannes19)
-[![Contributed to](https://img.shields.io/badge/Contributed%20to-0-brightgreen)](https://github.com/Yohannes19)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yohannes19&layout=compact&theme=default&langs_count=12)](https://github.com/Yohannes19)
 
 ---
 
-## Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yohannes19&layout=compact)](https://github.com/Yohannes19)
+### 📈 Additional Metrics
+- **Total Repositories:** [Explore my repositories!](https://github.com/Yohannes19?tab=repositories)
+- **Current Focus:** Open-source contributions, full-stack development, and geospatial solutions
+- **Learning Goals:** Expanding knowledge in DevOps (GCP) and improving advanced testing frameworks
 
 
 
