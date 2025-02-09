@@ -11,7 +11,7 @@ I'm a passionate developer with expertise in building user-centric applications 
 - **UI/UX Tools:** Bootstrap 5, Responsive Web Design, Cross-Browser Compatibility
 
 ### 🔧 Backend Development
-- **Languages & Frameworks:** Ruby on Rails, Python (Django, Flask, FastAPI), Javascript( NodeJs)  
+- **Languages & Frameworks:** Ruby(Ruby on Rails), Python (Django, Flask, FastAPI), Javascript( NodeJs)  
 - **Cloud Solutions:** Firebase, RESTful APIs, Microservices Architecture
 
 ### 🗄️ Databases & Data Management
