@@ -7,15 +7,15 @@ I'm a passionate developer with expertise in building user-centric applications 
 ## 🚀 Technical Skills Overview
 
 ### 🖥️ Frontend Development
-- **Languages & Frameworks:** HTML5, CSS3, JavaScript (ES6+), React.js, Vue.js  
+- **Languages & Frameworks:** HTML5, CSS3, JavaScript (ES6+), React.js  
 - **UI/UX Tools:** Bootstrap 5, Responsive Web Design, Cross-Browser Compatibility
 
 ### 🔧 Backend Development
-- **Languages & Frameworks:** Ruby on Rails, Node.js (Express), Python (Django, Flask, FastAPI)  
+- **Languages & Frameworks:** Ruby on Rails, Python (Django, Flask, FastAPI), Javascript( NodeJs)  
 - **Cloud Solutions:** Firebase, RESTful APIs, Microservices Architecture
 
 ### 🗄️ Databases & Data Management
-- **Relational Databases:** PostgreSQL (with PostGIS), MySQL, Oracle DB  
+- **Relational Databases:** PostgreSQL, MySQL, Oracle DB  
 - **Geospatial Databases:** PostGIS for spatial queries and geodata management
 
 ### ☁️ DevOps & Cloud Platforms
