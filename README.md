@@ -39,34 +39,15 @@ I'm a passionate developer with expertise in building user-centric applications 
 - **Collaboration:** Cross-team collaboration, stakeholder communication
 
 
----
-## 📊 GitHub Stats
-
-![Yohannes19's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yohannes19&show_icons=true&theme=default&count_private=true&include_all_commits=true)
-
-[![Total Stars](https://img.shields.io/github/stars/Yohannes19?label=Total%20Stars&style=flat&logo=github)](https://github.com/Yohannes19)
-[![Total Commits](https://img.shields.io/github/commit-activity/m/Yohannes19?label=Total%20Commits&style=flat&logo=github)](https://github.com/Yohannes19)
-[![Total PRs](https://img.shields.io/github/issues-pr/Yohannes19?label=Total%20PRs&style=flat&logo=github)](https://github.com/Yohannes19)
-[![Total Issues](https://img.shields.io/github/issues/Yohannes19?label=Total%20Issues&style=flat&logo=github)](https://github.com/Yohannes19)
-[![Contributors](https://img.shields.io/github/contributors/Yohannes19?label=Contributors&style=flat&logo=github)](https://github.com/Yohannes19)
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Yohannes19&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Yohannes19&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yohannes19&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Yohannes19&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📚 Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yohannes19&layout=compact&theme=default&langs_count=12)](https://github.com/Yohannes19)
-
----
-
-### 📈 Additional Metrics
-- **Total Repositories:** [Explore my repositories!](https://github.com/Yohannes19?tab=repositories)
-- **Current Focus:** Open-source contributions, full-stack development, and geospatial solutions
-- **Learning Goals:** Expanding knowledge in DevOps (GCP) and improving advanced testing frameworks
-
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 <!--
