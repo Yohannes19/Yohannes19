@@ -18,26 +18,6 @@ I'm a passionate developer with expertise in building user-centric applications 
 - **Relational Databases:** PostgreSQL, MySQL, Oracle DB  
 - **Geospatial Databases:** PostGIS for spatial queries and geodata management
 
-### ☁️ DevOps & Cloud Platforms
-- **Platforms:** Google Cloud Platform (GCP)  
-- **CI/CD & Automation:** CI/CD pipelines, Infrastructure as Code (IaC)
-
-### 🧪 Testing & Quality Assurance
-- **Tools:** Postman, Cypress  
-- **Testing Practices:** Unit & Integration Testing, API Testing
-
-### 📈 Project Management & Collaboration
-- **Tools:** Slack, Jira  
-- **Methodologies:** Agile, Cross-team collaboration, Mentorship, Interviewing, Accessibility
-
-### 🗺️ Geospatial Technologies
-- **Tools & Libraries:** QGIS, GeoPandas, Geoserver, Esri ArcGIS Suite  
-- **Capabilities:** Geospatial data analysis, mapping, and visualization
-
-### 🛠️ Other Skills
-- **Best Practices:** Clean Code, Design Patterns  
-- **Collaboration:** Cross-team collaboration, stakeholder communication
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Yohannes19&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
