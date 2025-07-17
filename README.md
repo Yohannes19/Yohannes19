@@ -1,9 +1,5 @@
 # Hi there! 👋 I'm Yohannes!
 
-### Software Engineer
-
-I'm a passionate developer with expertise in building user-centric applications across frontend, backend, and geospatial domains. I leverage clear communication skills to collaborate effectively with cross-functional teams. My dedication to clean code ensures maintainable and scalable software solutions.
-
 ## 🚀 Technical Skills Overview
 
 ### 🖥️ Frontend Development
